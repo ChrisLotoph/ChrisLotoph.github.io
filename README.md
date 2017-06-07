@@ -19,7 +19,7 @@ Chris' Home Page
       
    -Instagram (haven't created account yet)
       
-4. News using CNN for the msot recent
+4. News from CNN
      
 5. Things
      
