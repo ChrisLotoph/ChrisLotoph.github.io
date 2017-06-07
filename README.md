@@ -23,6 +23,6 @@ Chris' Home Page
      
  -Things
      
-    -Included inspirational gifs along with an image of a duck and lizard with a scarf.
+   -Included inspirational gifs along with an image of a duck and lizard with a scarf.
      
   Purpose: Appeals to people interested in layout or design.
