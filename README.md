@@ -3,15 +3,15 @@ Website by Chris Le: Waffle Kiwi
 
 Chris' Home Page
 
--Home
+1.Home
   
--About
+2.About
   
--Employee
+  -Employee
     
--Location using Google maps
+  -Location using Google maps
      
--Social
+3.Social
     
    -Twitter (haven't created account yet)
       
@@ -19,9 +19,9 @@ Chris' Home Page
       
    -Instagram (haven't created account yet)
       
--News using CNN for the msot recent
+4.News using CNN for the msot recent
      
- -Things
+5.Things
      
    -Included inspirational gifs along with an image of a duck and lizard with a scarf.
      
