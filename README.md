@@ -7,9 +7,9 @@ Chris' Home Page
   
 2. About
   
-  -Employee
+   -Employee
     
-  -Location using Google maps
+   -Location using Google maps
      
 3. Social
     
